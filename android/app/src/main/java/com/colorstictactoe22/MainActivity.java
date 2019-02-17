@@ -1,4 +1,4 @@
-package com.tictactoe;
+package com.colorstictactoe22;
 
 import com.facebook.react.ReactActivity;
 
